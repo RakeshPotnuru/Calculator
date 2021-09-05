@@ -28,7 +28,7 @@ body {
 }
 
 .calculator-grid > button:hover {
-    box-shadow: 0 10px 10px 0 red;
+    box-shadow: 0 15px 15px 0 red;
 }
 
 .span-two {
